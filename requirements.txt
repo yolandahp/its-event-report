@@ -1,0 +1,8 @@
+anago==0.0.5
+googlemaps==3.1.3
+keras==2.1.5
+mysql-connector-python==8.0.17
+networkx==2.3
+redis==3.2.1
+tensorflow==1.12.0
+tweepy==3.8.0
