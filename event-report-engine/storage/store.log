@@ -1,0 +1,500 @@
+2019-10-27 12:34:21,602 - STORE - INFO - Start
+2019-10-27 12:34:21,605 - STORE - INFO - Processing {'tweet_id': '1139203890342006785', 'user_id': '546467108', 'tweet': '@e100ss wiyung lampu mati mulai jam 21 sd sekarang', 'created_at': '2019-06-13 16:12:27', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Wiyung', 'source_address': 'Kec. Wiyung, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.315256499999999, 'longitude_src': 112.6854173}
+2019-10-27 12:34:21,669 - STORE - INFO - Success
+2019-10-27 12:34:21,670 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kedung Tarukan', 'source_address': 'Jl. Kedung Tarukan, Kota SBY, Jawa Timur 60132, Indonesia', 'latitude_src': -7.261791199999999, 'longitude_src': 112.761692}
+2019-10-27 12:34:21,702 - STORE - INFO - Success
+2019-10-27 12:34:21,703 - STORE - INFO - Processing {'tweet_id': '1139347956451045376', 'user_id': '848614550', 'tweet': 'Jalan Medan Merdeka Barat Steril Jelang Sidang PHPU\nhttps://t.co/fvRPIrAYAU', 'created_at': '2019-06-14 01:44:55', 'incident_type': 'Lalu-Lintas', 'source_name': 'Mahkamah Konstitusi Republik Indonesia', 'source_address': 'Jl. Medan Merdeka Barat No.6, RT.2/RW.3, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia', 'latitude_src': -6.173572399999999, 'longitude_src': 106.8220798}
+2019-10-27 12:34:21,769 - STORE - INFO - Success
+2019-10-27 12:34:21,770 - STORE - INFO - Processing {'tweet_id': '1139376838810095619', 'user_id': '2903135036', 'tweet': '@e100ss Apapun yg terjadi truck dilarang jalur kanan di jalan Tol, cuman di Tol surabaya aja yg dibiarin jalur kanan meskipun udah ada larangannya, padahal sangat bahaya saat truck nyalip jalur kanan dgn kecepetan rendah yg akhirnya belakangnya ngerem mendadak', 'created_at': '2019-06-14 03:39:41', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Tol Surabaya - Gempol', 'source_address': 'Jl. Tol Surabaya - Gempol, Jawa Timur, Indonesia', 'latitude_src': -7.3706445, 'longitude_src': 112.700538}
+2019-10-27 12:34:21,836 - STORE - INFO - Success
+2019-10-27 12:34:21,837 - STORE - INFO - Processing {'tweet_id': '1139383149446647808', 'user_id': '2319386248', 'tweet': '@e100ss Kanjeng Sultan... https://t.co/16KryanhRC', 'created_at': '2019-06-14 04:04:46', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kanjeng Mami Vegan', 'source_address': 'Sebrang Apartemen Metropolis, Jl. Raya Tenggilis No.126A, Tenggilis Mejoyo, Kec. Tenggilis Mejoyo, Kota SBY, Jawa Timur 60292, Indonesia', 'latitude_src': -7.3204962, 'longitude_src': 112.7584375}
+2019-10-27 12:34:21,870 - STORE - INFO - Success
+2019-10-27 12:34:21,870 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Gerbang Tol Manyar', 'source_address': 'Tenger, Pongangan, Kec. Manyar, Kabupaten Gresik, Jawa Timur 61151, Indonesia', 'latitude_src': -7.1279553, 'longitude_src': 112.6038793}
+2019-10-27 12:34:21,903 - STORE - INFO - Success
+2019-10-27 12:34:21,904 - STORE - INFO - Processing {'tweet_id': '1139311621380030464', 'user_id': '893463357822349312', 'tweet': '@e100ss Hati2 ada truk ngeban di Raya Banjarsari arah Cerme sekitar 500m sebelum perlintasan KA Cerme. Posisi truk nutupin 1 jalur, blum ada petugas yg ngatur.', 'created_at': '2019-06-13 23:20:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Cerme', 'source_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_src': -7.226098499999999, 'longitude_src': 112.5602686, 'destination_name': 'Kec. Cerme', 'destination_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.226098499999999, 'longitude_dst': 112.5602686, 'way_name': '["Jl. Raya Banjarsari"]', 'way_address': '["Jl. Raya Banjarsari, Kec. Cerme, Kabupaten Gresik, Jawa Timur 61171, Indonesia"]'}
+2019-10-27 12:34:21,936 - STORE - INFO - Success
+2019-10-27 12:34:21,937 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': None, 'source_address': None, 'latitude_src': None, 'longitude_src': None, 'destination_name': 'Kabupaten Gresik', 'destination_address': 'Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.155029099999999, 'longitude_dst': 112.5721881}
+2019-10-27 12:34:21,970 - STORE - INFO - Success
+2019-10-27 12:34:21,970 - STORE - INFO - Processing {'tweet_id': '1139385106169155584', 'user_id': '848614550', 'tweet': '11.12: Info awal #kecelakaan di Gumitir arah Banyuwangi. Mobil Ertiga silver masuk ke jurang. Belum ada petugas di lokasi. Lalu lintas padat 2 arah di sekitar lokasi. (odp-pr)', 'created_at': '2019-06-14 04:12:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Yupiter Variasi', 'source_address': 'JL. Undaan Wetan, No. 4, Ketabang, Genteng, 60272, Ketabang, Surabaya, Kota SBY, Jawa Timur 60272, Indonesia', 'latitude_src': -7.2526395, 'longitude_src': 112.7452877, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Jurang"]', 'way_address': '["Jurang, Kec. Gebog, Kabupaten Kudus, Jawa Tengah, Indonesia"]'}
+2019-10-27 12:34:22,003 - STORE - INFO - Success
+2019-10-27 12:34:22,004 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Raya Darmo', 'source_address': 'Jl. Raya Darmo, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.287961999999999, 'longitude_src': 112.7393952, 'destination_name': 'Kec. Wonokromo', 'destination_address': 'Kec. Wonokromo, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.302664, 'longitude_dst': 112.7330892}
+2019-10-27 12:34:22,037 - STORE - INFO - Success
+2019-10-27 12:34:22,037 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Grand Royal Ballroom', 'source_address': 'Perum Kertajaya Indah Regency, Gebang Pratama, No.6-8, Keputih, Kec. Sukolilo, Kota SBY, Jawa Timur 60111, Indonesia', 'latitude_src': -7.288879100000001, 'longitude_src': 112.7878828, 'destination_name': 'Ketintang', 'destination_address': 'Ketintang, Kec. Gayungan, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.3154135, 'longitude_dst': 112.7301098}
+2019-10-27 12:34:22,070 - STORE - INFO - Success
+2019-10-27 12:34:22,071 - STORE - INFO - Processing {'tweet_id': '1139397550333521920', 'user_id': '619770546', 'tweet': '@e100ss Ada pik up muat air mineral cleo yg mogok ditengah jalan raya kenjeran dekat trafic light perempatan kdg cowek.  Arah kenjeran rangkah', 'created_at': '2019-06-14 05:01:59', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kenjeran', 'source_address': 'Jl. Kenjeran, Rangkah, Kec. Tambaksari, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.2439329, 'longitude_src': 112.7636836, 'destination_name': 'Benteng Kedung Cowek', 'destination_address': 'Kedung Cowek, Kec. Bulak, Kota SBY, Jawa Timur 60125, Indonesia', 'latitude_dst': -7.2105077, 'longitude_dst': 112.78089, 'way_name': '["Jl. Jasmine Raya"]', 'way_address': '["Jl. Jasmine Raya, Babatan, Kec. Wiyung, Kota SBY, Jawa Timur 60213, Indonesia"]'}
+2019-10-27 12:34:22,103 - STORE - INFO - Success
+2019-10-27 12:35:57,121 - STORE - INFO - Exiting
+2019-10-27 21:12:26,804 - STORE - INFO - Start
+2019-10-27 21:12:26,807 - STORE - INFO - Processing {'tweet_id': '1139203890342006785', 'user_id': '546467108', 'tweet': '@e100ss wiyung lampu mati mulai jam 21 sd sekarang', 'created_at': '2019-06-13 16:12:27', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Wiyung', 'source_address': 'Kec. Wiyung, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.315256499999999, 'longitude_src': 112.6854173}
+2019-10-27 21:12:26,871 - STORE - INFO - Success
+2019-10-27 21:12:26,872 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kedung Tarukan', 'source_address': 'Jl. Kedung Tarukan, Kota SBY, Jawa Timur 60132, Indonesia', 'latitude_src': -7.261791199999999, 'longitude_src': 112.761692}
+2019-10-27 21:12:26,904 - STORE - INFO - Success
+2019-10-27 21:12:26,905 - STORE - INFO - Processing {'tweet_id': '1139347956451045376', 'user_id': '848614550', 'tweet': 'Jalan Medan Merdeka Barat Steril Jelang Sidang PHPU\nhttps://t.co/fvRPIrAYAU', 'created_at': '2019-06-14 01:44:55', 'incident_type': 'Lalu-Lintas', 'source_name': 'Mahkamah Konstitusi Republik Indonesia', 'source_address': 'Jl. Medan Merdeka Barat No.6, RT.2/RW.3, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia', 'latitude_src': -6.173572399999999, 'longitude_src': 106.8220798}
+2019-10-27 21:12:26,971 - STORE - INFO - Success
+2019-10-27 21:12:26,972 - STORE - INFO - Processing {'tweet_id': '1139376838810095619', 'user_id': '2903135036', 'tweet': '@e100ss Apapun yg terjadi truck dilarang jalur kanan di jalan Tol, cuman di Tol surabaya aja yg dibiarin jalur kanan meskipun udah ada larangannya, padahal sangat bahaya saat truck nyalip jalur kanan dgn kecepetan rendah yg akhirnya belakangnya ngerem mendadak', 'created_at': '2019-06-14 03:39:41', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Tol Surabaya - Gempol', 'source_address': 'Jl. Tol Surabaya - Gempol, Jawa Timur, Indonesia', 'latitude_src': -7.3706445, 'longitude_src': 112.700538}
+2019-10-27 21:12:27,038 - STORE - INFO - Success
+2019-10-27 21:12:27,039 - STORE - INFO - Processing {'tweet_id': '1139383149446647808', 'user_id': '2319386248', 'tweet': '@e100ss Kanjeng Sultan... https://t.co/16KryanhRC', 'created_at': '2019-06-14 04:04:46', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kanjeng Mami Vegan', 'source_address': 'Sebrang Apartemen Metropolis, Jl. Raya Tenggilis No.126A, Tenggilis Mejoyo, Kec. Tenggilis Mejoyo, Kota SBY, Jawa Timur 60292, Indonesia', 'latitude_src': -7.3204962, 'longitude_src': 112.7584375}
+2019-10-27 21:12:27,072 - STORE - INFO - Success
+2019-10-27 21:12:27,072 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Gerbang Tol Manyar', 'source_address': 'Tenger, Pongangan, Kec. Manyar, Kabupaten Gresik, Jawa Timur 61151, Indonesia', 'latitude_src': -7.1279553, 'longitude_src': 112.6038793}
+2019-10-27 21:12:27,105 - STORE - INFO - Success
+2019-10-27 21:12:27,106 - STORE - INFO - Processing {'tweet_id': '1139311621380030464', 'user_id': '893463357822349312', 'tweet': '@e100ss Hati2 ada truk ngeban di Raya Banjarsari arah Cerme sekitar 500m sebelum perlintasan KA Cerme. Posisi truk nutupin 1 jalur, blum ada petugas yg ngatur.', 'created_at': '2019-06-13 23:20:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Cerme', 'source_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_src': -7.226098499999999, 'longitude_src': 112.5602686, 'destination_name': 'Kec. Cerme', 'destination_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.226098499999999, 'longitude_dst': 112.5602686, 'way_name': '["Jl. Raya Banjarsari"]', 'way_address': '["Jl. Raya Banjarsari, Kec. Cerme, Kabupaten Gresik, Jawa Timur 61171, Indonesia"]', 'way_latitude': '[-7.198271000000001]', 'way_longitude': '[112.575383]'}
+2019-10-27 21:12:27,138 - STORE - INFO - Success
+2019-10-27 21:12:27,139 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': None, 'source_address': None, 'latitude_src': None, 'longitude_src': None, 'destination_name': 'Kabupaten Gresik', 'destination_address': 'Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.155029099999999, 'longitude_dst': 112.5721881}
+2019-10-27 21:12:27,172 - STORE - INFO - Success
+2019-10-27 21:12:27,172 - STORE - INFO - Processing {'tweet_id': '1139385106169155584', 'user_id': '848614550', 'tweet': '11.12: Info awal #kecelakaan di Gumitir arah Banyuwangi. Mobil Ertiga silver masuk ke jurang. Belum ada petugas di lokasi. Lalu lintas padat 2 arah di sekitar lokasi. (odp-pr)', 'created_at': '2019-06-14 04:12:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Yupiter Variasi', 'source_address': 'JL. Undaan Wetan, No. 4, Ketabang, Genteng, 60272, Ketabang, Surabaya, Kota SBY, Jawa Timur 60272, Indonesia', 'latitude_src': -7.2526395, 'longitude_src': 112.7452877, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Jurang"]', 'way_address': '["Jurang, Kec. Gebog, Kabupaten Kudus, Jawa Tengah, Indonesia"]', 'way_latitude': '[-6.7399371]', 'way_longitude': '[110.8478413]'}
+2019-10-27 21:12:27,216 - STORE - INFO - Success
+2019-10-27 21:12:27,217 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Raya Darmo', 'source_address': 'Jl. Raya Darmo, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.287961999999999, 'longitude_src': 112.7393952, 'destination_name': 'Kec. Wonokromo', 'destination_address': 'Kec. Wonokromo, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.302664, 'longitude_dst': 112.7330892}
+2019-10-27 21:12:27,250 - STORE - INFO - Success
+2019-10-27 21:12:27,250 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Grand Royal Ballroom', 'source_address': 'Perum Kertajaya Indah Regency, Gebang Pratama, No.6-8, Keputih, Kec. Sukolilo, Kota SBY, Jawa Timur 60111, Indonesia', 'latitude_src': -7.288879100000001, 'longitude_src': 112.7878828, 'destination_name': 'Ketintang', 'destination_address': 'Ketintang, Kec. Gayungan, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.3154135, 'longitude_dst': 112.7301098}
+2019-10-27 21:12:27,283 - STORE - INFO - Success
+2019-10-27 21:12:27,284 - STORE - INFO - Processing {'tweet_id': '1139397550333521920', 'user_id': '619770546', 'tweet': '@e100ss Ada pik up muat air mineral cleo yg mogok ditengah jalan raya kenjeran dekat trafic light perempatan kdg cowek.  Arah kenjeran rangkah', 'created_at': '2019-06-14 05:01:59', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kenjeran', 'source_address': 'Jl. Kenjeran, Rangkah, Kec. Tambaksari, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.2439329, 'longitude_src': 112.7636836, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Jl. Jasmine Raya"]', 'way_address': '["Jl. Jasmine Raya, Babatan, Kec. Wiyung, Kota SBY, Jawa Timur 60213, Indonesia"]', 'way_latitude': '[-7.292445]', 'way_longitude': '[112.6748456]'}
+2019-10-27 21:12:27,328 - STORE - INFO - Success
+2019-10-27 21:12:42,015 - STORE - INFO - Exiting
+2019-10-27 21:17:50,220 - STORE - INFO - Start
+2019-10-27 21:17:50,223 - STORE - INFO - Processing {'tweet_id': '1139203890342006785', 'user_id': '546467108', 'tweet': '@e100ss wiyung lampu mati mulai jam 21 sd sekarang', 'created_at': '2019-06-13 16:12:27', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Wiyung', 'source_address': 'Kec. Wiyung, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.315256499999999, 'longitude_src': 112.6854173}
+2019-10-27 21:17:50,284 - STORE - INFO - Success
+2019-10-27 21:17:50,285 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kedung Tarukan', 'source_address': 'Jl. Kedung Tarukan, Kota SBY, Jawa Timur 60132, Indonesia', 'latitude_src': -7.261791199999999, 'longitude_src': 112.761692}
+2019-10-27 21:17:50,318 - STORE - INFO - Success
+2019-10-27 21:17:50,318 - STORE - INFO - Processing {'tweet_id': '1139347956451045376', 'user_id': '848614550', 'tweet': 'Jalan Medan Merdeka Barat Steril Jelang Sidang PHPU\nhttps://t.co/fvRPIrAYAU', 'created_at': '2019-06-14 01:44:55', 'incident_type': 'Lalu-Lintas', 'source_name': 'Mahkamah Konstitusi Republik Indonesia', 'source_address': 'Jl. Medan Merdeka Barat No.6, RT.2/RW.3, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia', 'latitude_src': -6.173572399999999, 'longitude_src': 106.8220798}
+2019-10-27 21:17:50,385 - STORE - INFO - Success
+2019-10-27 21:17:50,385 - STORE - INFO - Processing {'tweet_id': '1139376838810095619', 'user_id': '2903135036', 'tweet': '@e100ss Apapun yg terjadi truck dilarang jalur kanan di jalan Tol, cuman di Tol surabaya aja yg dibiarin jalur kanan meskipun udah ada larangannya, padahal sangat bahaya saat truck nyalip jalur kanan dgn kecepetan rendah yg akhirnya belakangnya ngerem mendadak', 'created_at': '2019-06-14 03:39:41', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Tol Surabaya - Gempol', 'source_address': 'Jl. Tol Surabaya - Gempol, Jawa Timur, Indonesia', 'latitude_src': -7.3706445, 'longitude_src': 112.700538}
+2019-10-27 21:17:50,451 - STORE - INFO - Success
+2019-10-27 21:17:50,452 - STORE - INFO - Processing {'tweet_id': '1139383149446647808', 'user_id': '2319386248', 'tweet': '@e100ss Kanjeng Sultan... https://t.co/16KryanhRC', 'created_at': '2019-06-14 04:04:46', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kanjeng Mami Vegan', 'source_address': 'Sebrang Apartemen Metropolis, Jl. Raya Tenggilis No.126A, Tenggilis Mejoyo, Kec. Tenggilis Mejoyo, Kota SBY, Jawa Timur 60292, Indonesia', 'latitude_src': -7.3204962, 'longitude_src': 112.7584375}
+2019-10-27 21:17:50,485 - STORE - INFO - Success
+2019-10-27 21:17:50,486 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Gerbang Tol Manyar', 'source_address': 'Tenger, Pongangan, Kec. Manyar, Kabupaten Gresik, Jawa Timur 61151, Indonesia', 'latitude_src': -7.1279553, 'longitude_src': 112.6038793}
+2019-10-27 21:17:50,518 - STORE - INFO - Success
+2019-10-27 21:17:50,519 - STORE - INFO - Processing {'tweet_id': '1139311621380030464', 'user_id': '893463357822349312', 'tweet': '@e100ss Hati2 ada truk ngeban di Raya Banjarsari arah Cerme sekitar 500m sebelum perlintasan KA Cerme. Posisi truk nutupin 1 jalur, blum ada petugas yg ngatur.', 'created_at': '2019-06-13 23:20:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Cerme', 'source_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_src': -7.226098499999999, 'longitude_src': 112.5602686, 'destination_name': 'Kec. Cerme', 'destination_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.226098499999999, 'longitude_dst': 112.5602686, 'way_name': '["Jl. Raya Banjarsari"]', 'way_address': '["Jl. Raya Banjarsari, Kec. Cerme, Kabupaten Gresik, Jawa Timur 61171, Indonesia"]', 'latitude_way': '[-7.198271000000001]', 'longitude_way': '[112.575383]'}
+2019-10-27 21:17:50,552 - STORE - INFO - Success
+2019-10-27 21:17:50,552 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': None, 'source_address': None, 'latitude_src': None, 'longitude_src': None, 'destination_name': 'Kabupaten Gresik', 'destination_address': 'Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.155029099999999, 'longitude_dst': 112.5721881}
+2019-10-27 21:17:50,585 - STORE - INFO - Success
+2019-10-27 21:17:50,586 - STORE - INFO - Processing {'tweet_id': '1139385106169155584', 'user_id': '848614550', 'tweet': '11.12: Info awal #kecelakaan di Gumitir arah Banyuwangi. Mobil Ertiga silver masuk ke jurang. Belum ada petugas di lokasi. Lalu lintas padat 2 arah di sekitar lokasi. (odp-pr)', 'created_at': '2019-06-14 04:12:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Yupiter Variasi', 'source_address': 'JL. Undaan Wetan, No. 4, Ketabang, Genteng, 60272, Ketabang, Surabaya, Kota SBY, Jawa Timur 60272, Indonesia', 'latitude_src': -7.2526395, 'longitude_src': 112.7452877, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Jurang"]', 'way_address': '["Jurang, Kec. Gebog, Kabupaten Kudus, Jawa Tengah, Indonesia"]', 'latitude_way': '[-6.7399371]', 'longitude_way': '[110.8478413]'}
+2019-10-27 21:17:50,619 - STORE - INFO - Success
+2019-10-27 21:17:50,619 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Raya Darmo', 'source_address': 'Jl. Raya Darmo, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.287961999999999, 'longitude_src': 112.7393952, 'destination_name': 'Kec. Wonokromo', 'destination_address': 'Kec. Wonokromo, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.302664, 'longitude_dst': 112.7330892}
+2019-10-27 21:17:50,652 - STORE - INFO - Success
+2019-10-27 21:17:50,653 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Royal Garden Family Spa', 'source_address': 'Jalan Kejawan Putih Mutiara Ruko Patos AA2 No 57 Pakuwon City Sukolilo, Kejawaan Putih Tamba, Kec. Mulyorejo, Kota SBY, Jawa Timur 60112, Indonesia', 'latitude_src': -7.276605, 'longitude_src': 112.804751, 'destination_name': 'Ketintang', 'destination_address': 'Ketintang, Kec. Gayungan, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.3154135, 'longitude_dst': 112.7301098}
+2019-10-27 21:17:50,685 - STORE - INFO - Success
+2019-10-27 21:17:50,686 - STORE - INFO - Processing {'tweet_id': '1139397550333521920', 'user_id': '619770546', 'tweet': '@e100ss Ada pik up muat air mineral cleo yg mogok ditengah jalan raya kenjeran dekat trafic light perempatan kdg cowek.  Arah kenjeran rangkah', 'created_at': '2019-06-14 05:01:59', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kenjeran', 'source_address': 'Jl. Kenjeran, Rangkah, Kec. Tambaksari, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.2439329, 'longitude_src': 112.7636836, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Jl. Jasmine Raya"]', 'way_address': '["Jl. Jasmine Raya, Babatan, Kec. Wiyung, Kota SBY, Jawa Timur 60213, Indonesia"]', 'latitude_way': '[-7.292445]', 'longitude_way': '[112.6748456]'}
+2019-10-27 21:17:50,719 - STORE - INFO - Success
+2019-10-27 21:18:25,711 - STORE - INFO - Exiting
+2019-10-27 22:12:47,748 - STORE - INFO - Start
+2019-10-27 22:12:47,751 - STORE - INFO - Processing {'tweet_id': '1139203890342006785', 'user_id': '546467108', 'tweet': '@e100ss wiyung lampu mati mulai jam 21 sd sekarang', 'created_at': '2019-06-13 16:12:27', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Wiyung', 'source_address': 'Kec. Wiyung, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.315256499999999, 'longitude_src': 112.6854173, 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:12:47,757 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_dst' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_dst' at row 1
+2019-10-27 22:12:47,758 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kedung Tarukan', 'source_address': 'Jl. Kedung Tarukan, Kota SBY, Jawa Timur 60132, Indonesia', 'latitude_src': -7.261791199999999, 'longitude_src': 112.761692, 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:12:47,759 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_dst' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_dst' at row 1
+2019-10-27 22:12:47,759 - STORE - INFO - Processing {'tweet_id': '1139347956451045376', 'user_id': '848614550', 'tweet': 'Jalan Medan Merdeka Barat Steril Jelang Sidang PHPU\nhttps://t.co/fvRPIrAYAU', 'created_at': '2019-06-14 01:44:55', 'incident_type': 'Lalu-Lintas', 'source_name': 'Mahkamah Konstitusi Republik Indonesia', 'source_address': 'Jl. Medan Merdeka Barat No.6, RT.2/RW.3, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia', 'latitude_src': -6.173572399999999, 'longitude_src': 106.8220798, 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:12:47,760 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_dst' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_dst' at row 1
+2019-10-27 22:12:47,760 - STORE - INFO - Processing {'tweet_id': '1139376838810095619', 'user_id': '2903135036', 'tweet': '@e100ss Apapun yg terjadi truck dilarang jalur kanan di jalan Tol, cuman di Tol surabaya aja yg dibiarin jalur kanan meskipun udah ada larangannya, padahal sangat bahaya saat truck nyalip jalur kanan dgn kecepetan rendah yg akhirnya belakangnya ngerem mendadak', 'created_at': '2019-06-14 03:39:41', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Tol Surabaya - Gempol', 'source_address': 'Jl. Tol Surabaya - Gempol, Jawa Timur, Indonesia', 'latitude_src': -7.3706445, 'longitude_src': 112.700538, 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:12:47,760 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_dst' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_dst' at row 1
+2019-10-27 22:12:47,761 - STORE - INFO - Processing {'tweet_id': '1139383149446647808', 'user_id': '2319386248', 'tweet': '@e100ss Kanjeng Sultan... https://t.co/16KryanhRC', 'created_at': '2019-06-14 04:04:46', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kanjeng Mami Vegan', 'source_address': 'Sebrang Apartemen Metropolis, Jl. Raya Tenggilis No.126A, Tenggilis Mejoyo, Kec. Tenggilis Mejoyo, Kota SBY, Jawa Timur 60292, Indonesia', 'latitude_src': -7.3204962, 'longitude_src': 112.7584375, 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:12:47,762 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_dst' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_dst' at row 1
+2019-10-27 22:12:47,762 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Gerbang Tol Manyar', 'source_address': 'Tenger, Pongangan, Kec. Manyar, Kabupaten Gresik, Jawa Timur 61151, Indonesia', 'latitude_src': -7.1279553, 'longitude_src': 112.6038793, 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:12:47,763 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_dst' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_dst' at row 1
+2019-10-27 22:12:47,764 - STORE - INFO - Processing {'tweet_id': '1139311621380030464', 'user_id': '893463357822349312', 'tweet': '@e100ss Hati2 ada truk ngeban di Raya Banjarsari arah Cerme sekitar 500m sebelum perlintasan KA Cerme. Posisi truk nutupin 1 jalur, blum ada petugas yg ngatur.', 'created_at': '2019-06-13 23:20:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Cerme', 'source_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_src': -7.226098499999999, 'longitude_src': 112.5602686, 'destination_name': 'Kec. Cerme', 'destination_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.226098499999999, 'longitude_dst': 112.5602686, 'way_name': '["Jl. Raya Banjarsari"]', 'way_address': '["Jl. Raya Banjarsari, Kec. Cerme, Kabupaten Gresik, Jawa Timur 61171, Indonesia"]', 'latitude_way': '[-7.198271000000001]', 'longitude_way': '[112.575383]'}
+2019-10-27 22:12:47,815 - STORE - INFO - Success
+2019-10-27 22:12:47,815 - STORE - INFO - Processing {'tweet_id': '1139340440124006400', 'user_id': '137997702', 'tweet': '@e100ss  L 1226 HZ mobilio warna putih di area ps turi arah tugu pahlawan mengemudi kaya maling!! Hampir nabrak mobil saya!', 'created_at': '2019-06-14 01:15:03', 'incident_type': 'Lalu-Lintas', 'source_name': '-', 'source_address': '-', 'latitude_src': '-', 'longitude_src': '-', 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '["Gading Puri Perkasa PT", "Tugu Pahlawan dan Museum Sepuluh Nopember"]', 'way_address': '["Jl. Kenjeran No.61760114, Gading, Kec. Tambaksari, Kota SBY, Jawa Timur 60134, Indonesia", "Jl. Pahlawan, Alun-alun Contong, Kec. Bubutan, Kota SBY, Jawa Timur 60174, Indonesia"]', 'latitude_way': '[-7.250137199999999, -7.2462417]', 'longitude_way': '[112.7884129, 112.7378214]'}
+2019-10-27 22:12:47,816 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_src' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_src' at row 1
+2019-10-27 22:12:47,817 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': None, 'source_address': None, 'latitude_src': None, 'longitude_src': None, 'destination_name': 'Kabupaten Gresik', 'destination_address': 'Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.155029099999999, 'longitude_dst': 112.5721881, 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:12:47,859 - STORE - INFO - Success
+2019-10-27 22:12:47,860 - STORE - INFO - Processing {'tweet_id': '1139385106169155584', 'user_id': '848614550', 'tweet': '11.12: Info awal #kecelakaan di Gumitir arah Banyuwangi. Mobil Ertiga silver masuk ke jurang. Belum ada petugas di lokasi. Lalu lintas padat 2 arah di sekitar lokasi. (odp-pr)', 'created_at': '2019-06-14 04:12:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Yupiter Variasi', 'source_address': 'JL. Undaan Wetan, No. 4, Ketabang, Genteng, 60272, Ketabang, Surabaya, Kota SBY, Jawa Timur 60272, Indonesia', 'latitude_src': -7.2526395, 'longitude_src': 112.7452877, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Jurang"]', 'way_address': '["Jurang, Kec. Gebog, Kabupaten Kudus, Jawa Tengah, Indonesia"]', 'latitude_way': '[-6.7399371]', 'longitude_way': '[110.8478413]'}
+2019-10-27 22:12:47,926 - STORE - INFO - Success
+2019-10-27 22:12:47,926 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Raya Darmo', 'source_address': 'Jl. Raya Darmo, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.287961999999999, 'longitude_src': 112.7393952, 'destination_name': 'Kec. Wonokromo', 'destination_address': 'Kec. Wonokromo, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.302664, 'longitude_dst': 112.7330892, 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:12:47,993 - STORE - INFO - Success
+2019-10-27 22:12:47,993 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Grand Royal Ballroom', 'source_address': 'Perum Kertajaya Indah Regency, Gebang Pratama, No.6-8, Keputih, Kec. Sukolilo, Kota SBY, Jawa Timur 60111, Indonesia', 'latitude_src': -7.288879100000001, 'longitude_src': 112.7878828, 'destination_name': 'Ketintang', 'destination_address': 'Ketintang, Kec. Gayungan, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.3154135, 'longitude_dst': 112.7301098, 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:12:48,026 - STORE - INFO - Success
+2019-10-27 22:12:48,027 - STORE - INFO - Processing {'tweet_id': '1139397550333521920', 'user_id': '619770546', 'tweet': '@e100ss Ada pik up muat air mineral cleo yg mogok ditengah jalan raya kenjeran dekat trafic light perempatan kdg cowek.  Arah kenjeran rangkah', 'created_at': '2019-06-14 05:01:59', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kenjeran', 'source_address': 'Jl. Kenjeran, Rangkah, Kec. Tambaksari, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.2439329, 'longitude_src': 112.7636836, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Sinar Raya"]', 'way_address': '["Jl. Kedungmangu Timur, Sidotopo Wetan, Kec. Kenjeran, Kota SBY, Jawa Timur 60128, Indonesia"]', 'latitude_way': '[-7.2228172]', 'longitude_way': '[112.7653855]'}
+2019-10-27 22:12:48,060 - STORE - INFO - Success
+2019-10-27 22:12:48,060 - STORE - INFO - Processing {'tweet_id': '1139419041750081537', 'user_id': '848614550', 'tweet': '13.27: Info awal #kecelakaan di Kedamean Gresik. Kecelakaan melibatkan Motor dengan Mobil. Ada korban luka parah. Posisi tepatnya depan SD Mojowuku. Info sudah diteruskan ke petugas (odp-pr)', 'created_at': '2019-06-14 06:27:23', 'incident_type': 'Lalu-Lintas', 'source_name': '-', 'source_address': '-', 'latitude_src': '-', 'longitude_src': '-', 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '["Kabupaten Gresik", "D\'ASA"]', 'way_address': '["Kabupaten Gresik, Jawa Timur, Indonesia", "Jl. Manyar Jaya V Blok C No.1, Menur Pumpungan, Kec. Sukolilo, Kota SBY, Jawa Timur 60118, Indonesia"]', 'latitude_way': '[-7.155029099999999, -7.297404]', 'longitude_way': '[112.5721881, 112.767826]'}
+2019-10-27 22:12:48,061 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_src' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_src' at row 1
+2019-10-27 22:12:48,062 - STORE - INFO - Processing {'tweet_id': '1139421307819323393', 'user_id': '333267077', 'tweet': '@e100ss Walah,, pd ngajarin sultan,, lanjut lah,,', 'created_at': '2019-06-14 06:36:23', 'incident_type': 'Lalu-Lintas', 'source_name': '-', 'source_address': '-', 'latitude_src': '-', 'longitude_src': '-', 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '["Yayasan Dana Sosial Al Falah YDSF", null]', 'way_address': '["8C no, Jl. Kertajaya No.17, Kertajaya, Kec. Gubeng, Kota SBY, Jawa Timur 60283, Indonesia", null]', 'latitude_way': '[-7.2802184, null]', 'longitude_way': '[112.7583135, null]'}
+2019-10-27 22:12:48,063 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_src' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_src' at row 1
+2019-10-27 22:13:56,860 - STORE - INFO - Exiting
+2019-10-27 22:20:13,276 - STORE - INFO - Start
+2019-10-27 22:20:13,278 - STORE - INFO - Processing {'tweet_id': '1139203890342006785', 'user_id': '546467108', 'tweet': '@e100ss wiyung lampu mati mulai jam 21 sd sekarang', 'created_at': '2019-06-13 16:12:27', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Wiyung', 'source_address': 'Kec. Wiyung, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.315256499999999, 'longitude_src': 112.6854173, 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:20:13,283 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_dst' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_dst' at row 1
+2019-10-27 22:20:13,285 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kedung Tarukan', 'source_address': 'Jl. Kedung Tarukan, Kota SBY, Jawa Timur 60132, Indonesia', 'latitude_src': -7.261791199999999, 'longitude_src': 112.761692, 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:20:13,285 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_dst' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_dst' at row 1
+2019-10-27 22:20:13,286 - STORE - INFO - Processing {'tweet_id': '1139347956451045376', 'user_id': '848614550', 'tweet': 'Jalan Medan Merdeka Barat Steril Jelang Sidang PHPU\nhttps://t.co/fvRPIrAYAU', 'created_at': '2019-06-14 01:44:55', 'incident_type': 'Lalu-Lintas', 'source_name': 'Mahkamah Konstitusi Republik Indonesia', 'source_address': 'Jl. Medan Merdeka Barat No.6, RT.2/RW.3, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia', 'latitude_src': -6.173572399999999, 'longitude_src': 106.8220798, 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:20:13,287 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_dst' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_dst' at row 1
+2019-10-27 22:20:13,287 - STORE - INFO - Processing {'tweet_id': '1139376838810095619', 'user_id': '2903135036', 'tweet': '@e100ss Apapun yg terjadi truck dilarang jalur kanan di jalan Tol, cuman di Tol surabaya aja yg dibiarin jalur kanan meskipun udah ada larangannya, padahal sangat bahaya saat truck nyalip jalur kanan dgn kecepetan rendah yg akhirnya belakangnya ngerem mendadak', 'created_at': '2019-06-14 03:39:41', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Tol Surabaya - Gempol', 'source_address': 'Jl. Tol Surabaya - Gempol, Jawa Timur, Indonesia', 'latitude_src': -7.3706445, 'longitude_src': 112.700538, 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:20:13,288 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_dst' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_dst' at row 1
+2019-10-27 22:20:13,288 - STORE - INFO - Processing {'tweet_id': '1139383149446647808', 'user_id': '2319386248', 'tweet': '@e100ss Kanjeng Sultan... https://t.co/16KryanhRC', 'created_at': '2019-06-14 04:04:46', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kanjeng Mami Vegan', 'source_address': 'Sebrang Apartemen Metropolis, Jl. Raya Tenggilis No.126A, Tenggilis Mejoyo, Kec. Tenggilis Mejoyo, Kota SBY, Jawa Timur 60292, Indonesia', 'latitude_src': -7.3204962, 'longitude_src': 112.7584375, 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:20:13,289 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_dst' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_dst' at row 1
+2019-10-27 22:20:13,289 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Gerbang Tol Manyar', 'source_address': 'Tenger, Pongangan, Kec. Manyar, Kabupaten Gresik, Jawa Timur 61151, Indonesia', 'latitude_src': -7.1279553, 'longitude_src': 112.6038793, 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:20:13,290 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_dst' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_dst' at row 1
+2019-10-27 22:20:13,290 - STORE - INFO - Processing {'tweet_id': '1139311621380030464', 'user_id': '893463357822349312', 'tweet': '@e100ss Hati2 ada truk ngeban di Raya Banjarsari arah Cerme sekitar 500m sebelum perlintasan KA Cerme. Posisi truk nutupin 1 jalur, blum ada petugas yg ngatur.', 'created_at': '2019-06-13 23:20:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Cerme', 'source_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_src': -7.226098499999999, 'longitude_src': 112.5602686, 'destination_name': 'Kec. Cerme', 'destination_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.226098499999999, 'longitude_dst': 112.5602686, 'way_name': '["Jl. Raya Banjarsari"]', 'way_address': '["Jl. Raya Banjarsari, Kec. Cerme, Kabupaten Gresik, Jawa Timur 61171, Indonesia"]', 'latitude_way': '[-7.198271000000001]', 'longitude_way': '[112.575383]'}
+2019-10-27 22:20:13,349 - STORE - INFO - Success
+2019-10-27 22:20:13,350 - STORE - INFO - Processing {'tweet_id': '1139340440124006400', 'user_id': '137997702', 'tweet': '@e100ss  L 1226 HZ mobilio warna putih di area ps turi arah tugu pahlawan mengemudi kaya maling!! Hampir nabrak mobil saya!', 'created_at': '2019-06-14 01:15:03', 'incident_type': 'Lalu-Lintas', 'source_name': '-', 'source_address': '-', 'latitude_src': '-', 'longitude_src': '-', 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '["Gading Puri Perkasa PT", "Tugu Pahlawan dan Museum Sepuluh Nopember"]', 'way_address': '["Jl. Kenjeran No.61760114, Gading, Kec. Tambaksari, Kota SBY, Jawa Timur 60134, Indonesia", "Jl. Pahlawan, Alun-alun Contong, Kec. Bubutan, Kota SBY, Jawa Timur 60174, Indonesia"]', 'latitude_way': '[-7.250137199999999, -7.2462417]', 'longitude_way': '[112.7884129, 112.7378214]'}
+2019-10-27 22:20:13,351 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_src' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_src' at row 1
+2019-10-27 22:20:13,352 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': None, 'source_address': None, 'latitude_src': None, 'longitude_src': None, 'destination_name': 'Kabupaten Gresik', 'destination_address': 'Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.155029099999999, 'longitude_dst': 112.5721881, 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:20:13,394 - STORE - INFO - Success
+2019-10-27 22:20:13,394 - STORE - INFO - Processing {'tweet_id': '1139385106169155584', 'user_id': '848614550', 'tweet': '11.12: Info awal #kecelakaan di Gumitir arah Banyuwangi. Mobil Ertiga silver masuk ke jurang. Belum ada petugas di lokasi. Lalu lintas padat 2 arah di sekitar lokasi. (odp-pr)', 'created_at': '2019-06-14 04:12:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Yupiter Variasi', 'source_address': 'JL. Undaan Wetan, No. 4, Ketabang, Genteng, 60272, Ketabang, Surabaya, Kota SBY, Jawa Timur 60272, Indonesia', 'latitude_src': -7.2526395, 'longitude_src': 112.7452877, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Jurang"]', 'way_address': '["Jurang, Kec. Gebog, Kabupaten Kudus, Jawa Tengah, Indonesia"]', 'latitude_way': '[-6.7399371]', 'longitude_way': '[110.8478413]'}
+2019-10-27 22:20:13,483 - STORE - INFO - Success
+2019-10-27 22:20:13,483 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Raya Darmo', 'source_address': 'Jl. Raya Darmo, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.287961999999999, 'longitude_src': 112.7393952, 'destination_name': 'Kec. Wonokromo', 'destination_address': 'Kec. Wonokromo, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.302664, 'longitude_dst': 112.7330892, 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:20:13,572 - STORE - INFO - Success
+2019-10-27 22:20:13,573 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Grand Royal Ballroom', 'source_address': 'Perum Kertajaya Indah Regency, Gebang Pratama, No.6-8, Keputih, Kec. Sukolilo, Kota SBY, Jawa Timur 60111, Indonesia', 'latitude_src': -7.288879100000001, 'longitude_src': 112.7878828, 'destination_name': 'Ketintang', 'destination_address': 'Ketintang, Kec. Gayungan, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.3154135, 'longitude_dst': 112.7301098, 'way_name': '-', 'way_address': '-', 'latitude_way': '-', 'longitude_way': '-'}
+2019-10-27 22:20:13,617 - STORE - INFO - Success
+2019-10-27 22:20:13,617 - STORE - INFO - Processing {'tweet_id': '1139397550333521920', 'user_id': '619770546', 'tweet': '@e100ss Ada pik up muat air mineral cleo yg mogok ditengah jalan raya kenjeran dekat trafic light perempatan kdg cowek.  Arah kenjeran rangkah', 'created_at': '2019-06-14 05:01:59', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kenjeran', 'source_address': 'Jl. Kenjeran, Rangkah, Kec. Tambaksari, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.2439329, 'longitude_src': 112.7636836, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Jl. Jasmine Raya"]', 'way_address': '["Jl. Jasmine Raya, Babatan, Kec. Wiyung, Kota SBY, Jawa Timur 60213, Indonesia"]', 'latitude_way': '[-7.292445]', 'longitude_way': '[112.6748456]'}
+2019-10-27 22:20:13,661 - STORE - INFO - Success
+2019-10-27 22:20:13,662 - STORE - INFO - Processing {'tweet_id': '1139419041750081537', 'user_id': '848614550', 'tweet': '13.27: Info awal #kecelakaan di Kedamean Gresik. Kecelakaan melibatkan Motor dengan Mobil. Ada korban luka parah. Posisi tepatnya depan SD Mojowuku. Info sudah diteruskan ke petugas (odp-pr)', 'created_at': '2019-06-14 06:27:23', 'incident_type': 'Lalu-Lintas', 'source_name': '-', 'source_address': '-', 'latitude_src': '-', 'longitude_src': '-', 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '["Kabupaten Gresik", "D\'ASA"]', 'way_address': '["Kabupaten Gresik, Jawa Timur, Indonesia", "Jl. Manyar Jaya V Blok C No.1, Menur Pumpungan, Kec. Sukolilo, Kota SBY, Jawa Timur 60118, Indonesia"]', 'latitude_way': '[-7.155029099999999, -7.297404]', 'longitude_way': '[112.5721881, 112.767826]'}
+2019-10-27 22:20:13,662 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_src' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_src' at row 1
+2019-10-27 22:20:13,663 - STORE - INFO - Processing {'tweet_id': '1139421307819323393', 'user_id': '333267077', 'tweet': '@e100ss Walah,, pd ngajarin sultan,, lanjut lah,,', 'created_at': '2019-06-14 06:36:23', 'incident_type': 'Lalu-Lintas', 'source_name': '-', 'source_address': '-', 'latitude_src': '-', 'longitude_src': '-', 'destination_name': '-', 'destination_address': '-', 'latitude_dst': '-', 'longitude_dst': '-', 'way_name': '["Yayasan Dana Sosial Al Falah YDSF", null]', 'way_address': '["8C no, Jl. Kertajaya No.17, Kertajaya, Kec. Gubeng, Kota SBY, Jawa Timur 60283, Indonesia", null]', 'latitude_way': '[-7.2802184, null]', 'longitude_way': '[112.7583135, null]'}
+2019-10-27 22:20:13,664 - STORE - WARNING - Rollback
+Traceback (most recent call last):
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 472, in cmd_query
+    raw_as_string=raw_as_string)
+_mysql_connector.MySQLInterfaceError: Data truncated for column 'latitude_src' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "redistomysql/insert.py", line 101, in <module>
+    result  = cursor.execute(sql_insert_query, insert_tuple)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/cursor_cext.py", line 266, in execute
+    raw_as_string=self._raw_as_string)
+  File "/home/titut/.local/lib/python3.6/site-packages/mysql/connector/connection_cext.py", line 475, in cmd_query
+    sqlstate=exc.sqlstate)
+mysql.connector.errors.DatabaseError: 1265 (01000): Data truncated for column 'latitude_src' at row 1
+2019-10-27 22:21:29,526 - STORE - INFO - Exiting
+2019-10-27 22:23:24,135 - STORE - INFO - Start
+2019-10-27 22:23:24,137 - STORE - INFO - Processing {'tweet_id': '1139203890342006785', 'user_id': '546467108', 'tweet': '@e100ss wiyung lampu mati mulai jam 21 sd sekarang', 'created_at': '2019-06-13 16:12:27', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Wiyung', 'source_address': 'Kec. Wiyung, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.315256499999999, 'longitude_src': 112.6854173}
+2019-10-27 22:23:24,200 - STORE - INFO - Success
+2019-10-27 22:23:24,201 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kedung Tarukan', 'source_address': 'Jl. Kedung Tarukan, Kota SBY, Jawa Timur 60132, Indonesia', 'latitude_src': -7.261791199999999, 'longitude_src': 112.761692}
+2019-10-27 22:23:24,244 - STORE - INFO - Success
+2019-10-27 22:23:24,245 - STORE - INFO - Processing {'tweet_id': '1139347956451045376', 'user_id': '848614550', 'tweet': 'Jalan Medan Merdeka Barat Steril Jelang Sidang PHPU\nhttps://t.co/fvRPIrAYAU', 'created_at': '2019-06-14 01:44:55', 'incident_type': 'Lalu-Lintas', 'source_name': 'Mahkamah Konstitusi Republik Indonesia', 'source_address': 'Jl. Medan Merdeka Barat No.6, RT.2/RW.3, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia', 'latitude_src': -6.173572399999999, 'longitude_src': 106.8220798}
+2019-10-27 22:23:24,311 - STORE - INFO - Success
+2019-10-27 22:23:24,312 - STORE - INFO - Processing {'tweet_id': '1139376838810095619', 'user_id': '2903135036', 'tweet': '@e100ss Apapun yg terjadi truck dilarang jalur kanan di jalan Tol, cuman di Tol surabaya aja yg dibiarin jalur kanan meskipun udah ada larangannya, padahal sangat bahaya saat truck nyalip jalur kanan dgn kecepetan rendah yg akhirnya belakangnya ngerem mendadak', 'created_at': '2019-06-14 03:39:41', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Tol Surabaya - Gempol', 'source_address': 'Jl. Tol Surabaya - Gempol, Jawa Timur, Indonesia', 'latitude_src': -7.3706445, 'longitude_src': 112.700538}
+2019-10-27 22:23:24,378 - STORE - INFO - Success
+2019-10-27 22:23:24,379 - STORE - INFO - Processing {'tweet_id': '1139383149446647808', 'user_id': '2319386248', 'tweet': '@e100ss Kanjeng Sultan... https://t.co/16KryanhRC', 'created_at': '2019-06-14 04:04:46', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kanjeng Mami Vegan', 'source_address': 'Sebrang Apartemen Metropolis, Jl. Raya Tenggilis No.126A, Tenggilis Mejoyo, Kec. Tenggilis Mejoyo, Kota SBY, Jawa Timur 60292, Indonesia', 'latitude_src': -7.3204962, 'longitude_src': 112.7584375}
+2019-10-27 22:23:24,423 - STORE - INFO - Success
+2019-10-27 22:23:24,423 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Gerbang Tol Manyar', 'source_address': 'Tenger, Pongangan, Kec. Manyar, Kabupaten Gresik, Jawa Timur 61151, Indonesia', 'latitude_src': -7.1279553, 'longitude_src': 112.6038793}
+2019-10-27 22:23:24,467 - STORE - INFO - Success
+2019-10-27 22:23:24,468 - STORE - INFO - Processing {'tweet_id': '1139311621380030464', 'user_id': '893463357822349312', 'tweet': '@e100ss Hati2 ada truk ngeban di Raya Banjarsari arah Cerme sekitar 500m sebelum perlintasan KA Cerme. Posisi truk nutupin 1 jalur, blum ada petugas yg ngatur.', 'created_at': '2019-06-13 23:20:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Cerme', 'source_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_src': -7.226098499999999, 'longitude_src': 112.5602686, 'destination_name': 'Kec. Cerme', 'destination_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.226098499999999, 'longitude_dst': 112.5602686, 'way_name': '["Jl. Raya Banjarsari"]', 'way_address': '["Jl. Raya Banjarsari, Kec. Cerme, Kabupaten Gresik, Jawa Timur 61171, Indonesia"]', 'latitude_way': '[-7.198271000000001]', 'longitude_way': '[112.575383]'}
+2019-10-27 22:23:24,512 - STORE - INFO - Success
+2019-10-27 22:23:24,513 - STORE - INFO - Processing {'tweet_id': '1139340440124006400', 'user_id': '137997702', 'tweet': '@e100ss  L 1226 HZ mobilio warna putih di area ps turi arah tugu pahlawan mengemudi kaya maling!! Hampir nabrak mobil saya!', 'created_at': '2019-06-14 01:15:03', 'incident_type': 'Lalu-Lintas', 'way_name': '["Gading Puri Perkasa PT", "Tugu Pahlawan dan Museum Sepuluh Nopember"]', 'way_address': '["Jl. Kenjeran No.61760114, Gading, Kec. Tambaksari, Kota SBY, Jawa Timur 60134, Indonesia", "Jl. Pahlawan, Alun-alun Contong, Kec. Bubutan, Kota SBY, Jawa Timur 60174, Indonesia"]', 'latitude_way': '[-7.250137199999999, -7.2462417]', 'longitude_way': '[112.7884129, 112.7378214]'}
+2019-10-27 22:23:24,556 - STORE - INFO - Success
+2019-10-27 22:23:24,557 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': None, 'source_address': None, 'latitude_src': None, 'longitude_src': None, 'destination_name': 'Kabupaten Gresik', 'destination_address': 'Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.155029099999999, 'longitude_dst': 112.5721881}
+2019-10-27 22:23:24,601 - STORE - INFO - Success
+2019-10-27 22:23:24,601 - STORE - INFO - Processing {'tweet_id': '1139385106169155584', 'user_id': '848614550', 'tweet': '11.12: Info awal #kecelakaan di Gumitir arah Banyuwangi. Mobil Ertiga silver masuk ke jurang. Belum ada petugas di lokasi. Lalu lintas padat 2 arah di sekitar lokasi. (odp-pr)', 'created_at': '2019-06-14 04:12:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Yupiter Variasi', 'source_address': 'JL. Undaan Wetan, No. 4, Ketabang, Genteng, 60272, Ketabang, Surabaya, Kota SBY, Jawa Timur 60272, Indonesia', 'latitude_src': -7.2526395, 'longitude_src': 112.7452877, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Jurang"]', 'way_address': '["Jurang, Kec. Gebog, Kabupaten Kudus, Jawa Tengah, Indonesia"]', 'latitude_way': '[-6.7399371]', 'longitude_way': '[110.8478413]'}
+2019-10-27 22:23:24,645 - STORE - INFO - Success
+2019-10-27 22:23:24,646 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Raya Darmo', 'source_address': 'Jl. Raya Darmo, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.287961999999999, 'longitude_src': 112.7393952, 'destination_name': 'Kec. Wonokromo', 'destination_address': 'Kec. Wonokromo, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.302664, 'longitude_dst': 112.7330892}
+2019-10-27 22:23:24,690 - STORE - INFO - Success
+2019-10-27 22:23:24,691 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Grand Royal Ballroom', 'source_address': 'Perum Kertajaya Indah Regency, Gebang Pratama, No.6-8, Keputih, Kec. Sukolilo, Kota SBY, Jawa Timur 60111, Indonesia', 'latitude_src': -7.288879100000001, 'longitude_src': 112.7878828, 'destination_name': 'Ketintang', 'destination_address': 'Ketintang, Kec. Gayungan, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.3154135, 'longitude_dst': 112.7301098}
+2019-10-27 22:23:24,734 - STORE - INFO - Success
+2019-10-27 22:23:24,735 - STORE - INFO - Processing {'tweet_id': '1139397550333521920', 'user_id': '619770546', 'tweet': '@e100ss Ada pik up muat air mineral cleo yg mogok ditengah jalan raya kenjeran dekat trafic light perempatan kdg cowek.  Arah kenjeran rangkah', 'created_at': '2019-06-14 05:01:59', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kenjeran', 'source_address': 'Jl. Kenjeran, Rangkah, Kec. Tambaksari, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.2439329, 'longitude_src': 112.7636836, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Jl. Jasmine Raya"]', 'way_address': '["Jl. Jasmine Raya, Babatan, Kec. Wiyung, Kota SBY, Jawa Timur 60213, Indonesia"]', 'latitude_way': '[-7.292445]', 'longitude_way': '[112.6748456]'}
+2019-10-27 22:23:24,779 - STORE - INFO - Success
+2019-10-27 22:23:24,780 - STORE - INFO - Processing {'tweet_id': '1139419041750081537', 'user_id': '848614550', 'tweet': '13.27: Info awal #kecelakaan di Kedamean Gresik. Kecelakaan melibatkan Motor dengan Mobil. Ada korban luka parah. Posisi tepatnya depan SD Mojowuku. Info sudah diteruskan ke petugas (odp-pr)', 'created_at': '2019-06-14 06:27:23', 'incident_type': 'Lalu-Lintas', 'way_name': '["Kabupaten Gresik", "D\'ASA"]', 'way_address': '["Kabupaten Gresik, Jawa Timur, Indonesia", "Jl. Manyar Jaya V Blok C No.1, Menur Pumpungan, Kec. Sukolilo, Kota SBY, Jawa Timur 60118, Indonesia"]', 'latitude_way': '[-7.155029099999999, -7.297404]', 'longitude_way': '[112.5721881, 112.767826]'}
+2019-10-27 22:23:24,823 - STORE - INFO - Success
+2019-10-27 22:23:24,824 - STORE - INFO - Processing {'tweet_id': '1139421307819323393', 'user_id': '333267077', 'tweet': '@e100ss Walah,, pd ngajarin sultan,, lanjut lah,,', 'created_at': '2019-06-14 06:36:23', 'incident_type': 'Lalu-Lintas', 'way_name': '["Yayasan Dana Sosial Al Falah YDSF", null]', 'way_address': '["8C no, Jl. Kertajaya No.17, Kertajaya, Kec. Gubeng, Kota SBY, Jawa Timur 60283, Indonesia", null]', 'latitude_way': '[-7.2802184, null]', 'longitude_way': '[112.7583135, null]'}
+2019-10-27 22:23:24,868 - STORE - INFO - Success
+2019-10-27 22:24:12,560 - STORE - INFO - Exiting
+2019-10-29 18:50:24,494 - STORE - INFO - Start
+2019-10-29 18:50:24,523 - STORE - INFO - Processing {'tweet_id': '1139203890342006785', 'user_id': '546467108', 'tweet': '@e100ss wiyung lampu mati mulai jam 21 sd sekarang', 'created_at': '2019-06-13 16:12:27', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Wiyung', 'source_address': 'Kec. Wiyung, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.315256499999999, 'longitude_src': 112.6854173}
+2019-10-29 18:50:24,574 - STORE - INFO - Success
+2019-10-29 18:50:24,575 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kedung Tarukan', 'source_address': 'Jl. Kedung Tarukan, Kota SBY, Jawa Timur 60132, Indonesia', 'latitude_src': -7.261791199999999, 'longitude_src': 112.761692}
+2019-10-29 18:50:24,607 - STORE - INFO - Success
+2019-10-29 18:50:24,608 - STORE - INFO - Processing {'tweet_id': '1139347956451045376', 'user_id': '848614550', 'tweet': 'Jalan Medan Merdeka Barat Steril Jelang Sidang PHPU\nhttps://t.co/fvRPIrAYAU', 'created_at': '2019-06-14 01:44:55', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Medan Merdeka Barat', 'source_address': 'Jl. Medan Merdeka Barat, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia', 'latitude_src': -6.175915499999999, 'longitude_src': 106.822726}
+2019-10-29 18:50:24,674 - STORE - INFO - Success
+2019-10-29 18:50:24,675 - STORE - INFO - Processing {'tweet_id': '1139376838810095619', 'user_id': '2903135036', 'tweet': '@e100ss Apapun yg terjadi truck dilarang jalur kanan di jalan Tol, cuman di Tol surabaya aja yg dibiarin jalur kanan meskipun udah ada larangannya, padahal sangat bahaya saat truck nyalip jalur kanan dgn kecepetan rendah yg akhirnya belakangnya ngerem mendadak', 'created_at': '2019-06-14 03:39:41', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Tol Surabaya - Gempol', 'source_address': 'Jl. Tol Surabaya - Gempol, Jawa Timur, Indonesia', 'latitude_src': -7.3706445, 'longitude_src': 112.700538}
+2019-10-29 18:50:24,741 - STORE - INFO - Success
+2019-10-29 18:50:24,742 - STORE - INFO - Processing {'tweet_id': '1139383149446647808', 'user_id': '2319386248', 'tweet': '@e100ss Kanjeng Sultan... https://t.co/16KryanhRC', 'created_at': '2019-06-14 04:04:46', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kanjeng Mami Vegan', 'source_address': 'Sebrang Apartemen Metropolis, Jl. Raya Tenggilis No.126A, Tenggilis Mejoyo, Kec. Tenggilis Mejoyo, Kota SBY, Jawa Timur 60292, Indonesia', 'latitude_src': -7.3204962, 'longitude_src': 112.7584375}
+2019-10-29 18:50:24,775 - STORE - INFO - Success
+2019-10-29 18:50:24,775 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Gerbang Tol Manyar', 'source_address': 'Tenger, Pongangan, Kec. Manyar, Kabupaten Gresik, Jawa Timur 61151, Indonesia', 'latitude_src': -7.1279553, 'longitude_src': 112.6038793}
+2019-10-29 18:50:24,808 - STORE - INFO - Success
+2019-10-29 18:50:24,809 - STORE - INFO - Processing {'tweet_id': '1139311621380030464', 'user_id': '893463357822349312', 'tweet': '@e100ss Hati2 ada truk ngeban di Raya Banjarsari arah Cerme sekitar 500m sebelum perlintasan KA Cerme. Posisi truk nutupin 1 jalur, blum ada petugas yg ngatur.', 'created_at': '2019-06-13 23:20:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Cerme', 'source_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_src': -7.226098499999999, 'longitude_src': 112.5602686, 'destination_name': 'Kec. Cerme', 'destination_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.226098499999999, 'longitude_dst': 112.5602686, 'way_name': '["Jl. Raya Banjarsari"]', 'way_address': '["Jl. Raya Banjarsari, Kec. Cerme, Kabupaten Gresik, Jawa Timur 61171, Indonesia"]', 'latitude_way': '[-7.198271000000001]', 'longitude_way': '[112.575383]'}
+2019-10-29 18:50:24,841 - STORE - INFO - Success
+2019-10-29 18:50:24,842 - STORE - INFO - Processing {'tweet_id': '1139340440124006400', 'user_id': '137997702', 'tweet': '@e100ss  L 1226 HZ mobilio warna putih di area ps turi arah tugu pahlawan mengemudi kaya maling!! Hampir nabrak mobil saya!', 'created_at': '2019-06-14 01:15:03', 'incident_type': 'Lalu-Lintas', 'way_name': '["Gading Puri Perkasa PT", "Tugu Pahlawan dan Museum Sepuluh Nopember"]', 'way_address': '["Jl. Kenjeran No.61760114, Gading, Kec. Tambaksari, Kota SBY, Jawa Timur 60134, Indonesia", "Jl. Pahlawan, Alun-alun Contong, Kec. Bubutan, Kota SBY, Jawa Timur 60174, Indonesia"]', 'latitude_way': '[-7.250137199999999, -7.2462417]', 'longitude_way': '[112.7884129, 112.7378214]'}
+2019-10-29 18:50:24,843 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': None, 'source_address': None, 'latitude_src': None, 'longitude_src': None, 'destination_name': 'Kabupaten Gresik', 'destination_address': 'Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.155029099999999, 'longitude_dst': 112.5721881}
+2019-10-29 18:50:24,843 - STORE - INFO - Processing {'tweet_id': '1139385106169155584', 'user_id': '848614550', 'tweet': '11.12: Info awal #kecelakaan di Gumitir arah Banyuwangi. Mobil Ertiga silver masuk ke jurang. Belum ada petugas di lokasi. Lalu lintas padat 2 arah di sekitar lokasi. (odp-pr)', 'created_at': '2019-06-14 04:12:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Yupiter Variasi', 'source_address': 'JL. Undaan Wetan, No. 4, Ketabang, Genteng, 60272, Ketabang, Surabaya, Kota SBY, Jawa Timur 60272, Indonesia', 'latitude_src': -7.2526395, 'longitude_src': 112.7452877, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Jurang"]', 'way_address': '["Jurang, Kec. Gebog, Kabupaten Kudus, Jawa Tengah, Indonesia"]', 'latitude_way': '[-6.7399371]', 'longitude_way': '[110.8478413]'}
+2019-10-29 18:50:24,875 - STORE - INFO - Success
+2019-10-29 18:50:24,876 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Raya Darmo', 'source_address': 'Jl. Raya Darmo, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.287961999999999, 'longitude_src': 112.7393952, 'destination_name': 'Kec. Wonokromo', 'destination_address': 'Kec. Wonokromo, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.302664, 'longitude_dst': 112.7330892}
+2019-10-29 18:50:24,908 - STORE - INFO - Success
+2019-10-29 18:50:24,909 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Grand Royal Ballroom', 'source_address': 'Perum Kertajaya Indah Regency, Gebang Pratama, No.6-8, Keputih, Kec. Sukolilo, Kota SBY, Jawa Timur 60111, Indonesia', 'latitude_src': -7.288879100000001, 'longitude_src': 112.7878828, 'destination_name': 'Ketintang', 'destination_address': 'Ketintang, Kec. Gayungan, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.3154135, 'longitude_dst': 112.7301098}
+2019-10-29 18:50:24,942 - STORE - INFO - Success
+2019-10-29 18:50:24,942 - STORE - INFO - Processing {'tweet_id': '1139397550333521920', 'user_id': '619770546', 'tweet': '@e100ss Ada pik up muat air mineral cleo yg mogok ditengah jalan raya kenjeran dekat trafic light perempatan kdg cowek.  Arah kenjeran rangkah', 'created_at': '2019-06-14 05:01:59', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kenjeran', 'source_address': 'Jl. Kenjeran, Rangkah, Kec. Tambaksari, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.2439329, 'longitude_src': 112.7636836, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Sinar Raya"]', 'way_address': '["Jl. Kedungmangu Timur, Sidotopo Wetan, Kec. Kenjeran, Kota SBY, Jawa Timur 60128, Indonesia"]', 'latitude_way': '[-7.2228172]', 'longitude_way': '[112.7653855]'}
+2019-10-29 18:50:24,975 - STORE - INFO - Success
+2019-10-29 18:50:24,976 - STORE - INFO - Processing {'tweet_id': '1139419041750081537', 'user_id': '848614550', 'tweet': '13.27: Info awal #kecelakaan di Kedamean Gresik. Kecelakaan melibatkan Motor dengan Mobil. Ada korban luka parah. Posisi tepatnya depan SD Mojowuku. Info sudah diteruskan ke petugas (odp-pr)', 'created_at': '2019-06-14 06:27:23', 'incident_type': 'Lalu-Lintas', 'way_name': '["Kabupaten Gresik", "D\'ASA"]', 'way_address': '["Kabupaten Gresik, Jawa Timur, Indonesia", "Jl. Manyar Jaya V Blok C No.1, Menur Pumpungan, Kec. Sukolilo, Kota SBY, Jawa Timur 60118, Indonesia"]', 'latitude_way': '[-7.155029099999999, -7.297404]', 'longitude_way': '[112.5721881, 112.767826]'}
+2019-10-29 18:50:24,976 - STORE - INFO - Processing {'tweet_id': '1139421307819323393', 'user_id': '333267077', 'tweet': '@e100ss Walah,, pd ngajarin sultan,, lanjut lah,,', 'created_at': '2019-06-14 06:36:23', 'incident_type': 'Lalu-Lintas', 'way_name': '["Yayasan Dana Sosial Al Falah YDSF", null]', 'way_address': '["8C no, Jl. Kertajaya No.17, Kertajaya, Kec. Gubeng, Kota SBY, Jawa Timur 60283, Indonesia", null]', 'latitude_way': '[-7.2802184, null]', 'longitude_way': '[112.7583135, null]'}
+2019-10-29 18:50:42,263 - STORE - INFO - Exiting
+2019-11-04 10:05:17,034 - STORE - INFO - Start
+2019-11-04 10:20:42,397 - STORE - INFO - Processing {'tweet_id': '1139203890342006785', 'user_id': '546467108', 'tweet': '@e100ss wiyung lampu mati mulai jam 21 sd sekarang', 'created_at': '2019-06-13 16:12:27', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Wiyung', 'source_address': 'Kec. Wiyung, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.315256499999999, 'longitude_src': 112.6854173}
+2019-11-04 10:20:42,656 - STORE - INFO - Success
+2019-11-04 10:20:43,158 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kedung Tarukan', 'source_address': 'Jl. Kedung Tarukan, Kota SBY, Jawa Timur 60132, Indonesia', 'latitude_src': -7.261791199999999, 'longitude_src': 112.761692}
+2019-11-04 10:20:43,190 - STORE - INFO - Success
+2019-11-04 10:20:43,441 - STORE - INFO - Processing {'tweet_id': '1139347956451045376', 'user_id': '848614550', 'tweet': 'Jalan Medan Merdeka Barat Steril Jelang Sidang PHPU\nhttps://t.co/fvRPIrAYAU', 'created_at': '2019-06-14 01:44:55', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Medan Merdeka Barat', 'source_address': 'Jl. Medan Merdeka Barat, Gambir, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10110, Indonesia', 'latitude_src': -6.1759129, 'longitude_src': 106.822688}
+2019-11-04 10:20:43,479 - STORE - INFO - Success
+2019-11-04 10:20:44,232 - STORE - INFO - Processing {'tweet_id': '1139376838810095619', 'user_id': '2903135036', 'tweet': '@e100ss Apapun yg terjadi truck dilarang jalur kanan di jalan Tol, cuman di Tol surabaya aja yg dibiarin jalur kanan meskipun udah ada larangannya, padahal sangat bahaya saat truck nyalip jalur kanan dgn kecepetan rendah yg akhirnya belakangnya ngerem mendadak', 'created_at': '2019-06-14 03:39:41', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Tol Surabaya - Gempol', 'source_address': 'Jl. Tol Surabaya - Gempol, Jawa Timur, Indonesia', 'latitude_src': -7.3706445, 'longitude_src': 112.700538}
+2019-11-04 10:20:44,290 - STORE - INFO - Success
+2019-11-04 10:20:46,047 - STORE - INFO - Processing {'tweet_id': '1139311621380030464', 'user_id': '893463357822349312', 'tweet': '@e100ss Hati2 ada truk ngeban di Raya Banjarsari arah Cerme sekitar 500m sebelum perlintasan KA Cerme. Posisi truk nutupin 1 jalur, blum ada petugas yg ngatur.', 'created_at': '2019-06-13 23:20:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kec. Cerme', 'source_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_src': -7.226098499999999, 'longitude_src': 112.5602686, 'destination_name': 'Kec. Cerme', 'destination_address': 'Kec. Cerme, Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.226098499999999, 'longitude_dst': 112.5602686, 'way_name': '["Jl. Raya Banjarsari"]', 'way_address': '["Jl. Raya Banjarsari, Kec. Cerme, Kabupaten Gresik, Jawa Timur 61171, Indonesia"]', 'latitude_way': '[-7.198271000000001]', 'longitude_way': '[112.575383]'}
+2019-11-04 10:20:46,102 - STORE - INFO - Success
+2019-11-04 10:20:46,605 - STORE - INFO - Processing {'tweet_id': '1139383149446647808', 'user_id': '2319386248', 'tweet': '@e100ss Kanjeng Sultan... https://t.co/16KryanhRC', 'created_at': '2019-06-14 04:04:46', 'incident_type': 'Lalu-Lintas', 'source_name': 'Kanjeng Mami Vegan', 'source_address': 'Sebrang Apartemen Metropolis, Jl. Raya Tenggilis No.126A, Tenggilis Mejoyo, Kec. Tenggilis Mejoyo, Kota SBY, Jawa Timur 60292, Indonesia', 'latitude_src': -7.3204962, 'longitude_src': 112.7584375}
+2019-11-04 10:20:46,646 - STORE - INFO - Success
+2019-11-04 10:20:47,902 - STORE - INFO - Processing {'tweet_id': '1139340440124006400', 'user_id': '137997702', 'tweet': '@e100ss  L 1226 HZ mobilio warna putih di area ps turi arah tugu pahlawan mengemudi kaya maling!! Hampir nabrak mobil saya!', 'created_at': '2019-06-14 01:15:03', 'incident_type': 'Lalu-Lintas', 'way_name': '["De Puri Boutique Hotel", "Tugu Pahlawan dan Museum Sepuluh Nopember"]', 'way_address': '["Jl. Kalimantan No.9, Gubeng, Kec. Gubeng, Kota SBY, Jawa Timur 60281, Indonesia", "Jl. Pahlawan, Alun-alun Contong, Kec. Bubutan, Kota SBY, Jawa Timur 60174, Indonesia"]', 'latitude_way': '[-7.271348000000001, -7.2462417]', 'longitude_way': '[112.751011, 112.7378214]'}
+2019-11-04 10:20:48,405 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Gerbang Tol Manyar', 'source_address': 'Tenger, Pongangan, Kec. Manyar, Kabupaten Gresik, Jawa Timur 61151, Indonesia', 'latitude_src': -7.1279553, 'longitude_src': 112.6038793}
+2019-11-04 10:20:48,436 - STORE - INFO - Success
+2019-11-04 10:20:49,188 - STORE - INFO - Processing {'tweet_id': '1139343742458974208', 'user_id': '848614550', 'tweet': '08.27: Waspadai kepadatannya\n1. Kedung Tarukan Macet, ada bongkar muatan bata dari pickup\n2. Deket Lamongan arah Gresik padat (odp-pr)', 'created_at': '2019-06-14 01:28:10', 'incident_type': 'Lalu-Lintas', 'source_name': None, 'source_address': None, 'latitude_src': None, 'longitude_src': None, 'destination_name': 'Kabupaten Gresik', 'destination_address': 'Kabupaten Gresik, Jawa Timur, Indonesia', 'latitude_dst': -7.155029099999999, 'longitude_dst': 112.5721881}
+2019-11-04 10:20:50,693 - STORE - INFO - Processing {'tweet_id': '1139385106169155584', 'user_id': '848614550', 'tweet': '11.12: Info awal #kecelakaan di Gumitir arah Banyuwangi. Mobil Ertiga silver masuk ke jurang. Belum ada petugas di lokasi. Lalu lintas padat 2 arah di sekitar lokasi. (odp-pr)', 'created_at': '2019-06-14 04:12:32', 'incident_type': 'Lalu-Lintas', 'source_name': 'Yupiter Variasi', 'source_address': 'JL. Undaan Wetan, No. 4, Ketabang, Genteng, 60272, Ketabang, Surabaya, Kota SBY, Jawa Timur 60272, Indonesia', 'latitude_src': -7.2526395, 'longitude_src': 112.7452877, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Jurang"]', 'way_address': '["Jurang, Kec. Temanggung, Kabupaten Temanggung, Jawa Tengah, Indonesia"]', 'latitude_way': '[-7.301603699999999]', 'longitude_way': '[110.1685519]'}
+2019-11-04 10:20:50,747 - STORE - INFO - Success
+2019-11-04 10:20:52,002 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Raya Darmo', 'source_address': 'Jl. Raya Darmo, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.287961999999999, 'longitude_src': 112.7393952, 'destination_name': 'Kec. Wonokromo', 'destination_address': 'Kec. Wonokromo, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.302664, 'longitude_dst': 112.7330892}
+2019-11-04 10:20:52,059 - STORE - INFO - Success
+2019-11-04 10:20:53,314 - STORE - INFO - Processing {'tweet_id': '1139386587706302464', 'user_id': '848614550', 'tweet': '11.18: Tiga Jalur ini padat\n1. Raya Darmo arah Wonokromo padat\n2. Royal arah Ketintang padat\n3. Exit Tol Manyar padat (odp-pr)', 'created_at': '2019-06-14 04:18:25', 'incident_type': 'Lalu-Lintas', 'source_name': 'Grand Royal Ballroom', 'source_address': 'Perum Kertajaya Indah Regency, Gebang Pratama, No.6-8, Keputih, Kec. Sukolilo, Kota SBY, Jawa Timur 60111, Indonesia', 'latitude_src': -7.288879100000001, 'longitude_src': 112.7878828, 'destination_name': 'Ketintang', 'destination_address': 'Ketintang, Kec. Gayungan, Kota SBY, Jawa Timur, Indonesia', 'latitude_dst': -7.3154135, 'longitude_dst': 112.7301098}
+2019-11-04 10:20:53,381 - STORE - INFO - Success
+2019-11-04 10:20:55,390 - STORE - INFO - Processing {'tweet_id': '1139397550333521920', 'user_id': '619770546', 'tweet': '@e100ss Ada pik up muat air mineral cleo yg mogok ditengah jalan raya kenjeran dekat trafic light perempatan kdg cowek.  Arah kenjeran rangkah', 'created_at': '2019-06-14 05:01:59', 'incident_type': 'Lalu-Lintas', 'source_name': 'Jl. Kenjeran', 'source_address': 'Jl. Kenjeran, Rangkah, Kec. Tambaksari, Kota SBY, Jawa Timur, Indonesia', 'latitude_src': -7.2439329, 'longitude_src': 112.7636836, 'destination_name': None, 'destination_address': None, 'latitude_dst': None, 'longitude_dst': None, 'way_name': '["Sinar Raya"]', 'way_address': '["Jl. Kedungmangu Timur, Sidotopo Wetan, Kec. Kenjeran, Kota SBY, Jawa Timur 60128, Indonesia"]', 'latitude_way': '[-7.2228172]', 'longitude_way': '[112.7653855]'}
+2019-11-04 10:20:55,437 - STORE - INFO - Success
+2019-11-04 10:20:55,939 - STORE - INFO - Processing {'tweet_id': '1139419041750081537', 'user_id': '848614550', 'tweet': '13.27: Info awal #kecelakaan di Kedamean Gresik. Kecelakaan melibatkan Motor dengan Mobil. Ada korban luka parah. Posisi tepatnya depan SD Mojowuku. Info sudah diteruskan ke petugas (odp-pr)', 'created_at': '2019-06-14 06:27:23', 'incident_type': 'Lalu-Lintas', 'way_name': '["Kabupaten Gresik", "D\'ASA"]', 'way_address': '["Kabupaten Gresik, Jawa Timur, Indonesia", "Jl. Manyar Jaya V Blok C No.1, Menur Pumpungan, Kec. Sukolilo, Kota SBY, Jawa Timur 60118, Indonesia"]', 'latitude_way': '[-7.155029099999999, -7.297404]', 'longitude_way': '[112.5721881, 112.767826]'}
+2019-11-04 10:20:56,944 - STORE - INFO - Processing {'tweet_id': '1139421307819323393', 'user_id': '333267077', 'tweet': '@e100ss Walah,, pd ngajarin sultan,, lanjut lah,,', 'created_at': '2019-06-14 06:36:23', 'incident_type': 'Lalu-Lintas', 'way_name': '["Yayasan Dana Sosial Al Falah YDSF", null]', 'way_address': '["8C no, Jl. Kertajaya No.17, Kertajaya, Kec. Gubeng, Kota SBY, Jawa Timur 60283, Indonesia", null]', 'latitude_way': '[-7.2802184, null]', 'longitude_way': '[112.7583135, null]'}
+2019-11-04 13:24:22,365 - STORE - INFO - Exiting
