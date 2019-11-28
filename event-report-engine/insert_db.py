@@ -91,6 +91,8 @@ if __name__ == "__main__":
             latitude = data["latitude"]
             longitude = data["longitude"]
 
+            print(data)
+
             cursor = connection.cursor()
             insert_tuple = (tweet_id, user_id, tweet, created_at, place, address, latitude, longitude)
             result  = cursor.execute(sql_insert_query, insert_tuple)

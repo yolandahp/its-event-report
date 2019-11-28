@@ -31,6 +31,7 @@ function initMap() {
 }
 
 function displayOnePosition(route){
+    route.tweet = route.tweet.replace(/(\r\n|\n|\r)/gm,"<br>");
     var contentString = '<div id="content">'+
                             '<div id="siteNotice">'+
                             '</div>'+

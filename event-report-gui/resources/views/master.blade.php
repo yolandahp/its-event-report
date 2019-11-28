@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Event Report</title>
+        <title>ITS Event Report</title>
         <link rel="icon" href="{{asset('images/IR_logogram_normal.png')}}">
 
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -19,7 +19,7 @@
     <body>
         <nav class="navbar navbar-expand-sm sticky-top">
             <a class="navbar-brand" href="#">
-                <img src="{{asset('images/IR_logo_normal.png')}}" width="90" height="45" class="d-inline-block align-top" alt="">
+                <img src="{{asset('images/IR_logogram_normal.png')}}" width="90" height="45" class="d-inline-block align-top" alt="">
             </a>
             
             <div class="collapse navbar-collapse">
